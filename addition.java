@@ -1,12 +1,5 @@
-import java.util.;
-
 public class addition{
-int a;
-int b;
-int add;
-
-public void add(int a,int b){
-add=a+b;
-System.out.println(the sum is=+add);
-}
+	public void add(int a,int b){
+	System.out.println("the sum is="+a+b);
+		}
 }
