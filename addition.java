@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.;
 
 public class addition{
 int a;
@@ -7,6 +7,6 @@ int add;
 
 public void add(int a,int b){
 add=a+b;
-System.out.println("the sum is="+add);
+System.out.println(the sum is=+add);
 }
 }
