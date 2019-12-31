@@ -4,6 +4,7 @@ class Main
 {
 	public static void main(String args[])
 	{
+	System.out.print("\nGitHUb Example\n");
 	addition ad=new addition();
 	AlwinDivision div=new AlwinDivision();
 	Multiply mul=new Multiply();
