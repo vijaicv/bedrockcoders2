@@ -17,7 +17,10 @@ class Main
 	sub.subtract(5,2);
 	md.modulus(6,2);
 	ad.add(3,3);
+
+	System.out.println("All Not Completed");
 	
+
 	
 	}
 }
